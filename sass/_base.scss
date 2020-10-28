@@ -47,10 +47,4 @@ body {
     [center-end]
     minmax(6rem, 1fr)
     [full-end];
-
-  // TODO: Delete
-  & > * {
-    padding: 40px;
-    font-size: 3rem;
-  }
 }
